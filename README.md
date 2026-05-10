@@ -16,8 +16,6 @@ Mas, eu só quis criar um script fácil, pra quando eu precisasse trocar de Note
 
 Não sei se é preguiça que eu NÃO QUERO instalar tudo manualmente, deixe o programador fazer suas gambiarras 👍
 
-![https://c.tenor.com/pt-BR/view/widetime-dancing-cat-cat-dance-twitch-cat-dacing-cat-twitch-gif-5209855648848219725]
-
 ## Iniciando o Setup
 
 ### Scripts fáceis feitos PARA BAIXAR MEUS APPS E LINGUAGENS FAVORITOS!!!!
