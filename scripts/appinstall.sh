@@ -10,7 +10,8 @@ echo "Instalando IntelliJ IDEA Community..."
 
 winget install --e --id JetBrains.IntelliJIDEA.Community
 
-
+echo "Instalando Cursor IDE..."
+winget install Anysphere.Cursor
 
 # O 2° Passo é instalar os packages de apps que uso no dia a dia
 echo "Instalando Apps do Dia-a-Dia..."
